@@ -8,6 +8,7 @@ fun main() {
     question.question6()
 }
 
+
 class Question {
     fun question1(): List<Int> {
         /*
@@ -142,3 +143,4 @@ data class Order(
     val products: List<Product>,
     val isDelivered: Boolean? = null
 )
+//7조입니다
